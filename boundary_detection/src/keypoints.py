@@ -5,33 +5,24 @@
     Module to extract keypoints
 """
 from pathlib import Path
-from typing import List, Tuple
 
 import cv2
 import mediapipe as mp
 import numpy as np
 
-
 from .face_mesh_ import (
     add_point_voxels,
-    build_mask_from_boundary,
-    compute_boundary_edges,
     compute_face_mesh,
     draw_points,
-    compute_mesh_and_boundary,
     find_keypoint_texture_ids,
     find_keypoints,
     find_metric_points,
     find_metric_texture_idxs,
-    get_boundary_idx,
-    get_boundary_from_annotation,
     get_keypoint_centroids,
 )
 from .utils_ import (
-    preprocess_pixels,
     preprocess_voxels,
     process_obj_file,
-    write_object,
     write_points,
 )
 
