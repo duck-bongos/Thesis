@@ -1,0 +1,18 @@
+MIT License with Restrictions on Commercial Use and Contact Requirement
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for non-commercial purposes only, subject to the following conditions:
+
+1. Commercial Use Restriction: The Software may not be used for commercial purposes without obtaining explicit written permission from the author.
+
+2. Contact Requirement: Any individual or organization seeking to use the Software for commercial purposes must contact the author and obtain explicit written permission before proceeding with such use.
+
+3. Redistribution: Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+   - Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+   - Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+   - Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+4. No Warranty: The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Modification and Derivative Works: Any modifications or derivative works of the Software must be clearly marked as such and must not be misrepresented as the original Software.
+
